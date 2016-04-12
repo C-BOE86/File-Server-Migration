@@ -1,0 +1,11 @@
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\Migration\Migration\bin\Debug\Migration.exe.config
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\Migration\Migration\obj\Debug\Migration.csprojResolveAssemblyReference.cache
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\Migration\Migration\bin\Debug\Migration.exe
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\Migration\Migration\bin\Debug\Migration.pdb
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\Migration\Migration\bin\Debug\Microsoft.SharePoint.Client.dll
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\Migration\Migration\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\Migration\Migration\obj\Debug\Migration.exe
+\\tshstl-strp01\tshusers\christopher.boedicke\my documents\visual studio 2015\Projects\Migration\Migration\obj\Debug\Migration.pdb
+C:\Users\Family\Desktop\Everything\Migration\Migration\bin\Debug\Migration.exe.config
+C:\Users\Family\Desktop\Everything\Migration\Migration\obj\Debug\Migration.exe
+C:\Users\Family\Desktop\Everything\Migration\Migration\obj\Debug\Migration.pdb
